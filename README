@@ -3,22 +3,24 @@ SZones
 
 __ATTENTION__
 
-	Se fichier xml na riens d'une information officiel
-	Il engage en rien le groupe groupe de volontaire qui contribue dessus, libre à vous d'utilisez ces informations comme vous voulez
-	Ces information on était tirée du site officiel de la senelec dans leur rubrique avis de coupure
+	Ce fichier xml n'a rien d'une information officielle.
+	Il engage en rien le groupe de volontaires qui contribue dessus. Libre à vous d'utiliser ces informations comme vous le voulez
+	Ces informations ont étaient tirées du site officiel de la Senelec dans leur rubrique "Avis de coupure".
 
-Pour quoi ? :
+Pourquoi ? :
 --------------
 
-Comme le document pdf de la senelec n'est pas exploitable nous avons jugez de faire une version xml, qui est sous licence Licence Art Libre 1.3 (LAL 1.3) 
+Comme le document pdf de la senelec n'est pas exploitable, nous avons jugé de faire une version xml, qui est sous Licence Art Libre 1.3 (LAL 1.3) 
 
 
 Contribuez :
 --------------
+Comment nous aider? 
+C'est simple : faites un FORK et éditez une partie du document. Une fois que vous avez fini d'éditer le document, demandez de PULL pour partagez votre travail.
 
-Aidez nous ces simple faite un FORK et éditez une partie du document et puis demander de PULL pour partagez votre travail
-vous trouverez le document pdf à cette adresse
+Vous trouverez le document pdf à l'adresse suivante:
 
 	http://www.senelec.sn/
+
 	Dans la rubrique Avis de coupure
 
