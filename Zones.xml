@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<tranche>
+	<zone>
+	<nom>A</nom>
+		<departement>
+			<nom>DAKAR</nom>
+			<Commune>
+				<nom>Arsenal</nom>
+				<quartier>
+					<nom>Port Autonome</nom>
+				</quartier>
+			 </Commune>
+		</departement>
+		<departement>
+			<nom>REGIONS</nom>
+			<Commune>
+				<nom>Dara Linguére</nom>
+				<quartier>
+					<nom>ZAC 1et 2</nom>
+				</quartier>
+			 </Commune>
+		</departement>
+	</zone>
+	<zone>
+	<nom>B</nom>
+		<departement>
+			<nom>Dakar</nom>
+			<Commune>
+			  <nom>Abass Ndao</nom>
+			 </Commune>
+		</departement>
+	</zone>
+	<zone>
+	<nom>C</nom>
+		<departement>
+			<nom>Dakar</nom>
+			<Commune>
+			  <nom>ATR MBOUR</nom>
+			 </Commune>
+		</departement>
+	</zone>
+</tranche>
+
