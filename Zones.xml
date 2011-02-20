@@ -33,7 +33,598 @@
 				<quartier>
 					<nom>Thann Boulangerie</nom>
 				</quartier>
-			 </Commune>
+			</Commune>
+			<Commune>
+				<nom>Concession</nom>
+				<quartier>
+					<nom>Gend. Médina</nom>
+				</quartier>
+				<quartier>
+					<nom>Fith Mith</nom>
+				</quartier>
+				<quartier>
+					<nom>Rte de Rufisque</nom>
+				</quartier>
+				<quartier>
+					<nom>Senelec Bel Air</nom>
+				</quartier>
+				<quartier>
+					<nom>Camp Abdou Diassé</nom>
+				</quartier>
+				<quartier>
+					<nom>Médina centre</nom>
+				</quartier>
+				<quartier>
+					<nom>Rte des Brasseries</nom>
+				</quartier>
+				<quartier>
+					<nom>zone industrielle</nom>
+				</quartier>
+				<quartier>
+					<nom>Allées du Centenaire 1et 2</nom>
+				</quartier>
+				<quartier>
+					<nom>Gibraltar</nom>
+				</quartier>
+				<quartier>
+					<nom>la zone industrielle de Dakar</nom>
+				</quartier>
+				<quartier>
+					<nom>Gendarmerie de potou</nom>
+				</quartier>
+				<quartier>
+					<nom>coselec</nom>
+				</quartier>
+				<quartier>
+					<nom>Bicis zone industrielle</nom>
+				</quartier>
+			</Commune>
+			<Commune>
+				<nom>Crédit foncier</nom>
+				<quartier>
+					<nom>Chancellerie USA</nom>
+				</quartier>
+				<quartier>
+					<nom>IFAN</nom>
+				</quartier>
+				<quartier>
+					<nom>Camp Dial. Diop</nom>
+				</quartier>
+				<quartier>
+					<nom>Clinique Madeleine</nom>
+				</quartier>
+				<quartier>
+					<nom>Cathédrale de Dakar</nom>
+				</quartier>
+				<quartier>
+					<nom>Hôtel du Plateau</nom>
+				</quartier>
+				<quartier>
+					<nom>Brière de l’Isle</nom>
+				</quartier>
+				<quartier>
+					<nom>Police du Plateau</nom>
+				</quartier>
+				<quartier>
+					<nom>Ecole de Médecine</nom>
+				</quartier>
+				<quartier>
+					<nom>Institut</nom>
+				</quartier>
+				<quartier>
+					<nom>britannique</nom>
+				</quartier>
+				<quartier>
+					<nom>Bloc Fédéral Chancellerie Allemagne</nom>
+				</quartier>
+				<quartier>
+					<nom>Etat Major des Forces Armées</nom>
+				</quartier>
+			</Commune>
+			<Commune>
+				<nom>Dagoudane Pikine</nom>
+				<quartier>
+					<nom>SDE Forage 17</nom>
+				</quartier>
+				<quartier>
+					<nom>Guinaw Rail</nom>
+				</quartier>
+				<quartier>
+					<nom>Dagoudane Est et Quartier</nom>
+				</quartier>
+				<quartier>
+					<nom>Mousdalifa</nom>
+				</quartier>
+				<quartier>
+					<nom>Dagoudane Nord et Tally Boubess</nom>
+				</quartier>
+				<quartier>
+					<nom>Cité Icotaf et Cité Pépinière</nom>
+				</quartier>
+			</Commune>
+			<Commune>
+				<nom>Dispensaire</nom>
+				<quartier>
+					<nom>Zone Portuaire du Mole 5 au Mole 8</nom>
+				</quartier>
+				<quartier>
+					<nom>Phosphates de TAIBA</nom>
+				</quartier>
+				<quartier>
+					<nom>le Bureau des recettes douanières</nom>
+				</quartier>
+				<quartier>
+					<nom>CDE</nom>
+				</quartier>
+				<quartier>
+					<nom>Base Navale des Forces Françaises</nom>
+				</quartier>
+				<quartier>
+					<nom>Scierie et Usine Chimique</nom>
+				</quartier>
+				<quartier>
+					<nom>Direction de SHELL et Le Parc à Mazout</nom>
+				</quartier>
+				<quartier>
+					<nom>Centre de formation professionnelle et Ecole Maritime</nom>
+				</quartier>
+			</Commune>
+			<Commune>
+				<nom>Fass Mbao</nom>
+				<quartier>
+					<nom>Fass Mbao</nom>
+				</quartier>
+				<quartier>
+					<nom>une partie du village de Yeumbeul</nom>
+				</quartier>
+				<quartier>
+					<nom>Yeumbeul marché</nom>
+				</quartier>
+				<quartier>
+					<nom>Boune</nom>
+				</quartier>
+				<quartier>
+					<nom>Boune village</nom>
+				</quartier>
+				<quartier>
+					<nom>Hamo 4 et 5</nom>
+				</quartier>
+				<quartier>
+					<nom>Guédiawaye Wakhinane</nom>
+				</quartier>
+			</Commune>
+			<Commune>
+				<nom>Hann 6,6</nom>
+				<quartier>
+					<nom>Fort B</nom>
+				</quartier>
+				<quartier>
+					<nom>Hann soseco</nom>
+				</quartier>
+				<quartier>
+					<nom>Ecole Sainte Marie</nom>
+				</quartier>
+				<quartier>
+					<nom>cité HADY NIANG</nom>
+				</quartier>
+				<quartier>
+					<nom>ORSTOM Hann</nom>
+				</quartier>
+				<quartier>
+					<nom>OCLALAV Stade de Hann</nom>
+				</quartier>
+				<quartier>
+					<nom>Elevage Laboratoire de Hann</nom>
+				</quartier>
+				<quartier>
+					<nom>Oil libya</nom>
+				</quartier>
+			</Commune>
+			<Commune>
+				<nom>Hann pêcheurs</nom>
+				<quartier>
+					<nom>Reboisement Hann</nom>
+				</quartier>
+				<quartier>
+					<nom>ITA</nom>
+				</quartier>
+				<quartier>
+					<nom>Massap(mèches LINDA)</nom>
+				</quartier>
+				<quartier>
+					<nom>Plastindustrie</nom>
+				</quartier>
+				<quartier>
+					<nom>Siplast</nom>
+				</quartier>
+				<quartier>
+					<nom>SIBA Cité Fayçal</nom>
+				</quartier>
+				<quartier>
+					<nom>Cité Elisabeth</nom>
+				</quartier>
+				<quartier>
+					<nom>Parfumerie Gandour 1 et 2</nom>
+				</quartier>
+				<quartier>
+					<nom>Cambérène Hilal</nom>
+				</quartier>
+				<quartier>
+					<nom>Hann Montagne</nom>
+				</quartier>
+				<quartier>
+					<nom>Laiterie Dakaroise</nom>
+				</quartier>
+				<quartier>
+					<nom>Marchand</nom>
+				</quartier>
+			</Commune>
+			<Commune>
+				<nom>Hlm Patte d'Oie</nom>
+				<quartier>
+					<nom>CTO</nom>
+				</quartier>
+				<quartier>
+					<nom>HLM PO</nom>
+				</quartier>
+				<quartier>
+					<nom>Majorité des Parcelles Assainies</nom>
+				</quartier>
+				<quartier>
+					<nom>Diamalaye</nom>
+				</quartier>
+				<quartier>
+					<nom>Hlm Grand Yoff</nom>
+				</quartier>
+				<quartier>
+					<nom>Grand Médine</nom>
+				</quartier>
+				<quartier>
+					<nom>Tous les Builders et Agence Senelec Patte d’oie</nom>
+				</quartier>
+			</Commune>
+			<Commune>
+				<nom>Hôtel Nina</nom>
+				<quartier>
+					<nom>Hotel Nina</nom>
+				</quartier>
+				<quartier>
+					<nom>Croix du sud</nom>
+				</quartier>
+				<quartier>
+					<nom>Sarrault</nom>
+				</quartier>
+				<quartier>
+					<nom>Thiers Mayoro</nom>
+				</quartier>
+				<quartier>
+					<nom>Kermel</nom>
+				</quartier>
+			</Commune>
+			<Commune>
+				<nom>Livraison SNA</nom>
+				<quartier>
+					<nom>Yeumbeul</nom>
+				</quartier>
+				<quartier>
+					<nom>Thiaroye Kao</nom>
+				</quartier>
+				<quartier>
+					<nom>Samsam</nom>
+				</quartier>
+				<quartier>
+					<nom>Route de Boune</nom>
+				</quartier>
+			</Commune>
+			<Commune>
+				<nom>Manguiers</nom>
+				<quartier>
+					<nom>Colobane</nom>
+				</quartier>
+				<quartier>
+					<nom>Cité DouaneFass Paillote</nom>
+				</quartier>
+				<quartier>
+					<nom>Terroubi</nom>
+				</quartier>
+				<quartier>
+					<nom>Sea Plazza</nom>
+				</quartier>
+				<quartier>
+					<nom>Ministère de la santé</nom>
+				</quartier>
+			</Commune>
+			<Commune>
+				<nom>Point E</nom>
+				<quartier>
+					<nom>Point E</nom>
+				</quartier>
+				<quartier>
+					<nom>Amitié 3</nom>
+				</quartier>
+				<quartier>
+					<nom>Mermoz 1 et 2</nom>
+				</quartier>
+				<quartier>
+					<nom>Baobab</nom>
+				</quartier>
+				<quartier>
+					<nom>Fass Paillote</nom>
+				</quartier>
+				<quartier>
+					<nom>Boulevard de l’est</nom>
+				</quartier>
+				<quartier>
+					<nom>Ambassade Nigeria</nom>
+				</quartier>
+				<quartier>
+					<nom>Pâtisserie les ambassades</nom>
+				</quartier>
+				<quartier>
+					<nom>Grands Comptes Senelec</nom>
+				</quartier>
+			</Commune>
+			<Commune>
+				<nom>Puits 12</nom>
+				<quartier>
+					<nom>Castors</nom>
+				</quartier>
+				<quartier>
+					<nom>Liberté</nom>
+				</quartier>
+				<quartier>
+					<nom>Derklé</nom>
+				</quartier>
+				<quartier>
+					<nom>Dieuppeul</nom>
+				</quartier>
+				<quartier>
+					<nom>Biscuiterie de Médina</nom>
+				</quartier>
+				<quartier>
+					<nom>HLM Ouagou Niayes 1 et 2</nom>
+				</quartier>
+				<quartier>
+					<nom>Benne Taly</nom>
+				</quartier>
+				<quartier>
+					<nom>Grand Dakar</nom>
+				</quartier>
+				<quartier>
+					<nom>Télévision scolaire</nom>
+				</quartier>
+			</Commune>
+			<Commune>
+				<nom>Puits 13</nom>
+				<quartier>
+					<nom>Agence Senelec Bourguiba</nom>
+				</quartier>
+				<quartier>
+					<nom>Sonatel Grand Dakar</nom>
+				</quartier>
+				<quartier>
+					<nom>Bassam Goumba</nom>
+				</quartier>
+				<quartier>
+					<nom>Niary Tally</nom>
+				</quartier>
+				<quartier>
+					<nom>Bopp Zone A</nom>
+				</quartier>
+				<quartier>
+					<nom>Sainte Thérèse</nom>
+				</quartier>
+				<quartier>
+					<nom>Liberté 4</nom>
+				</quartier>
+				<quartier>
+					<nom>Puits 12,13 et 14</nom>
+				</quartier>
+				<quartier>
+					<nom>Sacré Cœur</nom>
+				</quartier>
+				<quartier>
+					<nom>Rond Point Sicap 1,2</nom>
+				</quartier>
+				<quartier>
+					<nom>Dieuppeul Liberté</nom>
+				</quartier>
+				<quartier>
+					<nom>Liberté 6 VDN</nom>
+				</quartier>
+			</Commune>
+			<Commune>
+				<nom>SAII</nom>
+				<quartier>
+					<nom>zone portuaire</nom>
+				</quartier>
+				<quartier>
+					<nom>tout le Mole 10</nom>
+				</quartier>
+				<quartier>
+					<nom>centre commercial 4C</nom>
+				</quartier>
+				<quartier>
+					<nom>COSEC</nom>
+				</quartier>
+				<quartier>
+					<nom>ENEEF</nom>
+				</quartier>
+				<quartier>
+					<nom>Direction Caisse d’épargne</nom>
+				</quartier>
+				<quartier>
+					<nom>BHS</nom>
+				</quartier>
+				<quartier>
+					<nom>BCEAO</nom>
+				</quartier>
+				<quartier>
+					<nom>Building Communal</nom>
+				</quartier>
+				<quartier>
+					<nom>Avenue Malick SY</nom>
+				</quartier>
+				<quartier>
+					<nom>Carrefour RTS</nom>
+				</quartier>
+				<quartier>
+					<nom>Sonatel Médina</nom>
+				</quartier>
+				<quartier>
+					<nom>Polyclinique</nom>
+				</quartier>
+			</Commune>
+			<Commune>
+				<nom>Sibras</nom>
+				<quartier>
+					<nom>SDE</nom>
+				</quartier>
+				<quartier>
+					<nom>Soleil</nom>
+				</quartier>
+				<quartier>
+					<nom>Hann</nom>
+				</quartier>
+				<quartier>
+					<nom>Hann Equipe</nom>
+				</quartier>
+				<quartier>
+					<nom>Zone industriell rue 5,6, et 7</nom>
+				</quartier>
+			</Commune>
+			<Commune>
+				<nom>Silèye Guissé</nom>
+				<quartier>
+					<nom>Ministère des Mines</nom>
+				</quartier>
+				<quartier>
+					<nom>Avenue Peytavin</nom>
+				</quartier>
+				<quartier>
+					<nom>Tribunal régional de Dakar (Bloc des Madeleines)</nom>
+				</quartier>
+				<quartier>
+					<nom>ASER</nom>
+				</quartier>
+				<quartier>
+					<nom>commission de régulation CRSE</nom>
+				</quartier>
+				<quartier>
+					<nom>Avenue Peytavin et rue Carnot</nom>
+				</quartier>
+				<quartier>
+					<nom>Direction de l’énergie</nom>
+				</quartier>
+			</Commune>
+			<Commune>
+				<nom>Terme Sud</nom>
+				<quartier>
+					<nom>Résidentielle</nom>
+				</quartier>
+				<quartier>
+					<nom>Ouakam</nom>
+				</quartier>
+				<quartier>
+					<nom> Cité CPI</nom>
+				</quartier>
+				<quartier>
+					<nom>Yoff Militaire</nom>
+				</quartier>
+				<quartier>
+					<nom>Comico</nom>
+				</quartier>
+				<quartier>
+					<nom>Cité Asecna</nom>
+				</quartier>
+				<quartier>
+					<nom>Cité assemblée Nationale</nom>
+				</quartier>
+				<quartier>
+					<nom>Groupement Aérien Sénégalais</nom>
+				</quartier>
+				<quartier>
+					<nom>Terme Sud</nom>
+				</quartier>
+			</Commune>
+			<Commune>
+				<nom>Tolbiac Secours</nom>
+				<quartier>
+					<nom>Gare Petersen</nom>
+				</quartier>
+				<quartier>
+					<nom>Rues Tolbiac et Paul Holle</nom>
+				</quartier>
+				<quartier>
+					<nom>Rue Amadou Assane Ndoye</nom>
+				</quartier>
+				<quartier>
+					<nom>Madeleines</nom>
+				</quartier>
+				<quartier>
+					<nom>Peytavin</nom>
+				</quartier>
+				<quartier>
+					<nom>Avenue Blaise Diagne</nom>
+				</quartier>
+				<quartier>
+					<nom>Keur Serigne bi</nom>
+				</quartier>
+				<quartier>
+					<nom>ORCA</nom>
+				</quartier>
+				<quartier>
+					<nom>Thiers X Blanchot</nom>
+				</quartier>
+				<quartier>
+					<nom>Reubeus</nom>
+				</quartier>
+				<quartier>
+					<nom>Mendy et Yser</nom>
+				</quartier>
+			</Commune>
+			<Commune>
+				<nom></nom>
+				<quartier>
+					<nom></nom>
+				</quartier>
+				<quartier>
+					<nom></nom>
+				</quartier>
+				<quartier>
+					<nom></nom>
+				</quartier>
+				<quartier>
+					<nom></nom>
+				</quartier>
+				<quartier>
+					<nom></nom>
+				</quartier>
+				<quartier>
+					<nom></nom>
+				</quartier>
+				<quartier>
+					<nom></nom>
+				</quartier>
+				<quartier>
+					<nom></nom>
+				</quartier>
+				<quartier>
+					<nom></nom>
+				</quartier>
+				<quartier>
+					<nom></nom>
+				</quartier>
+				<quartier>
+					<nom></nom>
+				</quartier>
+				<quartier>
+					<nom></nom>
+				</quartier>
+				<quartier>
+					<nom></nom>
+				</quartier>
+			</Commune>
 		</departement>
 		<departement>
 			<nom>REGIONS</nom>
