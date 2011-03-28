@@ -101,18 +101,18 @@
 				</quartier>
 				<quartier>
 					<nom>Gibraltar</nom>
-					<lng></lng>
-					<lat></lat>
+					<lng>-17.44329</lng>
+					<lat>14.68694 </lat>
 				</quartier>
 				<quartier>
 					<nom>la zone industrielle de Dakar</nom>
-					<lng></lng>
-					<lat></lat>
+					<lng>-17.43515</lng>
+					<lat>14.69951</lat>
 				</quartier>
 				<quartier>
 					<nom>Gendarmerie de potou</nom>
-					<lng></lng>
-					<lat></lat>
+					<lng>-17.43617</lng>
+					<lat>14.69776 </lat>
 				</quartier>
 				<quartier>
 					<nom>coselec</nom>
@@ -134,13 +134,13 @@
 				</quartier>
 				<quartier>
 					<nom>IFAN</nom>
-					<lng></lng>
-					<lat></lat>
+					<lng>-17.43797</lng>
+					<lat>14.66366 </lat>
 				</quartier>
 				<quartier>
 					<nom>Camp Dial. Diop</nom>
-					<lng></lng>
-					<lat></lat>
+					<lng>-17.43962</lng>
+					<lat>14.65906</lat>
 				</quartier>
 				<quartier>
 					<nom>Clinique Madeleine</nom>
